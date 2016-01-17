@@ -6,7 +6,7 @@ https://wishlist.hideo54.com のソース
 
 ## バージョン
 
-Ver 1.4.0
+Ver 1.4.1
 
 ## 連絡先
 
