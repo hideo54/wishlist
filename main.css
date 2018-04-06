@@ -7,7 +7,7 @@ body {
 #ver {
     margin-top: 0px;
     margin-bottom: 20px;
-    font-family: sans-serif;
+    font-family: -apple-system, "BlinkMacSystemFont", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
     font-size: 0.8em;
     color: #AAAAAA;
 }
@@ -19,8 +19,7 @@ main {
 }
 
 h1, main p {
-    font-family: "proxima-nova", sans-serif;
-    font-weight: 100;
+    font-family: -apple-system, "BlinkMacSystemFont", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
 }
 
 h1 {
@@ -80,7 +79,7 @@ footer a {
     display: block;
     margin: 0;
     padding: 20px;
-    font-family: "proxima-nova", sans-serif;
+    font-family: -apple-system, "BlinkMacSystemFont", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
     font-weight: 100;
     font-size: 1.2em;
     color: white;
